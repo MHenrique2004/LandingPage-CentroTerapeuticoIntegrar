@@ -12,7 +12,7 @@ export const CienciaParceriaSection: React.FC = () => {
         <div className="lg:col-span-5 order-2 lg:order-1">
           <div className="relative rounded-3xl overflow-hidden border border-[#e4e1eb] bg-white p-3 shadow-md">
             <img
-              src="assets/Images/IMG_0589.jpg"
+              src="/assets/Images/img_0589.jpg"
               alt="Foto da equipe clínica do Centro Terapêutico Integrar estudando um caso clínico juntos"
               referrerPolicy="no-referrer"
               className="w-full h-[400px] sm:h-[480px] object-cover rounded-2xl"
