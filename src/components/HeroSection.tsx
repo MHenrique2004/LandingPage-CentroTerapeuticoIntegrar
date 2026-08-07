@@ -13,7 +13,7 @@ export const HeroSection: React.FC<HeroSectionProps> = ({ onOpenAgendamento }) =
       {/* Background Image Container with Soft Gradient Overlay */}
       <div className="absolute inset-0 z-0">
         <img
-          src="/assets/Images/background.png"
+          src="/Images/background.png"
           alt="Foto principal da clínica"
           referrerPolicy="no-referrer"
           className="w-full h-full object-cover object-center scale-105 filter brightness-95"
