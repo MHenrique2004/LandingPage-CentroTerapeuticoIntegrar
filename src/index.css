@@ -1,0 +1,36 @@
+@import "tailwindcss";
+
+@layer utilities {
+  .font-display {
+    font-family: 'Six Caps', sans-serif;
+    letter-spacing: 0.08em;
+    font-weight: 400;
+    line-height: 0.92;
+    text-transform: uppercase;
+  }
+
+  .font-condensed {
+    font-family: 'Bebas Neue', 'Six Caps', sans-serif;
+    letter-spacing: 0.04em;
+    line-height: 1;
+    text-transform: uppercase;
+  }
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #f1edfb;
+}
+::-webkit-scrollbar-thumb {
+  background: #006782;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #000061;
+}

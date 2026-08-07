@@ -1,0 +1,6 @@
+{
+  "name": "Centro Terapêutico Integrar",
+  "description": "Plataforma do Centro Terapêutico Integrar (CTI) - Terapia baseada em evidências, empoderamento parental e acolhimento para Autismo, TDAH e neurodivergências.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
