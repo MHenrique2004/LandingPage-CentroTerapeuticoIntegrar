@@ -19,7 +19,7 @@ export const Footer: React.FC<FooterProps> = ({ onOpenAgendamento }) => {
             <div className="flex items-center gap-3">
               <a href="#home" className="flex items-center group py-1">
               <img
-                src="/assets/Images/logo-cti-branca.png"
+                src="/Images/logo-cti-branca.png"
                 alt="Centro Terapêutico Integrar Logo Branca"
                 className="h-2 sm:h-30 w-auto object-contain group-hover:scale-105 transition-transform"
                 referrerPolicy="no-referrer"

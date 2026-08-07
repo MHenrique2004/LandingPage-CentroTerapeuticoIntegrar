@@ -35,7 +35,7 @@ export const QuemSomosSection: React.FC = () => {
         <div className="md:col-span-8 rounded-3xl overflow-hidden shadow-sm group border border-[#e4e1eb] bg-white">
           <div className="relative h-[320px] sm:h-[400px] overflow-hidden">
             <img
-                src="/assets/Images/img_0773.jpg"
+                src="/Images/img_0773.jpg"
                 alt="Terapeuta de costas"
                 referrerPolicy="no-referrer"
                 className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"

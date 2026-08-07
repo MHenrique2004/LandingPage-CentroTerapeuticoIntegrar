@@ -27,7 +27,7 @@ export const Navbar: React.FC<NavbarProps> = ({
         {/* Brand Logo */}
         <a href="#home" className="flex items-center group py-1">
           <img
-            src="/assets/Images/logo-cti-azul.png"
+            src="/Images/logo-cti-azul.png"
             alt="Centro Terapêutico Integrar Logo AZUL"
             className="h-10 sm:h-20 w-auto object-contain group-hover:scale-105 transition-transform"
             referrerPolicy="no-referrer"
