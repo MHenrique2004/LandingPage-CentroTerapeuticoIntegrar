@@ -26,7 +26,8 @@ export const HeroSection: React.FC<HeroSectionProps> = ({ onOpenAgendamento }) =
         {/* Main Display Headline in Six Caps Condensed Style */}
         <div className="space-y-2">
           <h1 className="font-display text-6xl sm:text-8xl md:text-9xl text-[#000061] tracking-wider leading-none drop-shadow-sm uppercase">
-            MUDANDO A FORMA COMO FAZEMOS TERAPIA
+            <span className="block">Carinho para acolher</span>
+            <span className="block">ciência para transformar</span>
           </h1>
         </div>
 
