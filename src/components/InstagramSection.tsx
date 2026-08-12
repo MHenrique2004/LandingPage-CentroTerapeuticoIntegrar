@@ -35,7 +35,7 @@ export const InstagramSection: React.FC = () => {
         </a>
       </div>
 
-      {/* Mini Instagram Posts Grid Mockup */}
+      {/* Mini Instagram Posts Grid Mockup - a ser adicionado no futuro */}
       {/* {<div className="pt-8 grid grid-cols-2 sm:grid-cols-4 gap-4 max-w-4xl mx-auto text-left">
         <div className="bg-white p-3 rounded-2xl border border-[#e4e1eb] shadow-xs space-y-2 hover:shadow-md transition-shadow">
           <div className="h-28 rounded-xl bg-[#8edcfd]/30 overflow-hidden relative group">
